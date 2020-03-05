@@ -1,0 +1,29 @@
+{
+  "name": "post-everything-vue-express-mariadb",
+  "version": "1.0.0",
+  "description": "post everything you want",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani-edo/post-everything-vue-express-mariadb.git"
+  },
+  "author": "Dani Edo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dani-edo/post-everything-vue-express-mariadb/issues"
+  },
+  "homepage": "https://github.com/dani-edo/post-everything-vue-express-mariadb#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
