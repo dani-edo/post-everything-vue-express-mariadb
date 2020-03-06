@@ -53,8 +53,8 @@
           variant="danger"
           class="float-right"
           @click="deletePost(post._id)"
-          >Delete this post</b-button
-        >
+          ><b-icon-trash-fill></b-icon-trash-fill>
+        </b-button>
       </b-card>
     </div>
   </div>

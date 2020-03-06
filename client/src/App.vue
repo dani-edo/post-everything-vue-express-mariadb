@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="https://images.unsplash.com/photo-1466096115517-bceecbfb6fde?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkwNjAxfQ'" alt="bg-full" class="bg-full" />
+    <img src="https://images.unsplash.com/photo-1466096115517-bceecbfb6fde?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkwNjAxfQ" alt="bg-full" class="bg-full" />
     <b-container>
       <Post />
     </b-container>
