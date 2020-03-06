@@ -12,7 +12,7 @@
         >Make a post</b-button
       >
       <hr class="my-4" />
-      <b-form @submit="Submit" v-if="show_form">
+      <b-form @submit.prevent="Submit" v-if="show_form">
         <!-- <b-form-group label="Title" label-for="title">
           <b-form-input
             id="title"
