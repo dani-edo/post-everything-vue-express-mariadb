@@ -1,6 +1,6 @@
 # post-everything-vue-express-mariadb
 
-Simple application for my learning about Node js (server), MariaDB (clouds base database), and Heroku for hosting my client and server service.
+Simple application for my learning about ExpressJs (NodeJs Framework), MariaDB (clouds base database), and Heroku for hosting my client and server service.
 
 With this application, you can create post  instantly by open input form toggle, type something, and click to post that. And then you can delete a post just by click trash button in the corner.
 
